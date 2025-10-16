@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "$2b$10$5l99DS3NshjhcEG4jzp99e6N3.ncJKDu4RD2jkxgqcOILdd7Pdl82",
+    "image": null,
+    "role": "admin",
+    "status": "active",
+    "dateCreated": "2025-09-22T10:00:00.000Z",
+    "dateUpdated": "2025-09-22T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Customer User",
+    "email": "customer@example.com",
+    "password": "$2b$10$DLWUo6S6Cd22whpmLMdNxuB0cggW66.UVyAeJCjXMbfJzlt4a5Hn.",
+    "image": null,
+    "role": "guest",
+    "status": "active",
+    "dateCreated": "2025-09-22T10:00:00.000Z",
+    "dateUpdated": "2025-10-09T22:49:59.965Z"
+  },
+  {
+    "id": 3,
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "test123",
+    "image": null,
+    "role": "lead_host",
+    "status": "active",
+    "dateCreated": "2025-09-22T10:00:00.000Z",
+    "dateUpdated": "2025-10-10T07:04:30.280Z"
+  }
+]

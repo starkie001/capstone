@@ -1,0 +1,4 @@
+{
+  "node-option": ["import=./mocha.setup.js"],
+  "recursive": true
+}

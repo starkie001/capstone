@@ -1,0 +1,88 @@
+[
+  {
+    "id": "1760048530166",
+    "userId": "1",
+    "role": "admin",
+    "groupName": "Scouts",
+    "groupType": "Club",
+    "groupSize": 5,
+    "interests": [
+      "Stars",
+      "Presentation"
+    ],
+    "otherInfo": "",
+    "date": "2025-10-13",
+    "status": "pending",
+    "created": "2025-10-09T22:22:10.166Z"
+  },
+  {
+    "id": "1760048666994",
+    "userId": "1",
+    "role": "admin",
+    "groupName": "Members booking",
+    "groupType": "Member",
+    "groupSize": 3,
+    "interests": [
+      "Nebula"
+    ],
+    "otherInfo": "",
+    "date": "2025-10-14",
+    "status": "confirmed",
+    "created": "2025-10-09T22:24:26.994Z"
+  },
+  {
+    "id": "1760080185581",
+    "userId": "1",
+    "role": "admin",
+    "groupName": "Trial",
+    "groupType": "Member",
+    "groupSize": 5,
+    "interests": [
+      "Stars"
+    ],
+    "otherInfo": "",
+    "date": "2025-10-21",
+    "status": "confirmed",
+    "created": "2025-10-10T07:09:45.581Z"
+  },
+  {
+    "id": "1760084119644",
+    "userId": "68e8bef5396ef9d7798adf31",
+    "role": "admin",
+    "groupName": "Test 001",
+    "groupType": "Family",
+    "groupSize": 8,
+    "interests": [
+      "Stars",
+      "Moon",
+      "Planets"
+    ],
+    "otherInfo": "Excited",
+    "date": "2025-10-16",
+    "status": "pending",
+    "created": "2025-10-10T08:15:19.644Z",
+    "confirmed": [
+      "68e8bef5396ef9d7798adf31"
+    ]
+  },
+  {
+    "id": "1760091419922",
+    "userId": "68e8bef5396ef9d7798adf31",
+    "role": "admin",
+    "groupName": "test002",
+    "groupType": "Family",
+    "groupSize": 5,
+    "interests": [
+      "Stars",
+      "Nebula",
+      "Presentation",
+      "Moon",
+      "Planets",
+      "Galaxies"
+    ],
+    "otherInfo": "test2",
+    "date": "2025-10-20",
+    "status": "pending",
+    "created": "2025-10-10T10:16:59.922Z"
+  }
+]

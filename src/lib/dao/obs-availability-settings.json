@@ -1,0 +1,23 @@
+{
+  "bookingsActive": true,
+  "requirements": [
+    {
+      "groupMin": 1,
+      "groupMax": 10,
+      "leadHosts": 1,
+      "hosts": 2
+    },
+    {
+      "groupMin": 11,
+      "groupMax": 20,
+      "leadHosts": 2,
+      "hosts": 3
+    },
+    {
+      "groupMin": 21,
+      "groupMax": 30,
+      "leadHosts": 2,
+      "hosts": 4
+    }
+  ]
+}
