@@ -8,12 +8,8 @@
 - Next.js
 - React
 - Node.js
-- Other dependencies...
-
-## Features
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
+- Vercel
+- MongoDB
 
 ## Installation
 ```bash
@@ -40,9 +36,12 @@ npm start
 ## Environment Variables
 | Variable | Description |
 |----------|-------------|
-| `API_KEY` |  |
-| `DATABASE_URL` |  |
-| `NEXT_PUBLIC_...` |  |
+| `NEXTAUTH_SECRET` | API Key for authentication |
+| `NEXTAUTH_URL` |   |
+| `GOOGLE_CLIENT_ID` | ID for Google Client |
+| `GOOGLE_CLIENT_SECRET` | API key for Google Client |
+| `NODE_ENV` |   |
+| `MONGODB_URI` | Database |
 
 ## Testing
 ```bash
